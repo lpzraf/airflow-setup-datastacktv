@@ -1,0 +1,9 @@
+unittests.cfg
+
+airflow.cfg
+
+airflow.db
+
+airflow-webserver.pid
+
+logs/
