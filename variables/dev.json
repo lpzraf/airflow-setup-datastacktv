@@ -1,0 +1,6 @@
+{
+    "project": "bigquery-test-274902",
+    "landing_bucket": "rl--logistics-landing-bucket",
+    "backup_bucket": "rl--logistics-backup-bucket"
+
+}
